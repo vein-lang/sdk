@@ -1,0 +1,22 @@
+{
+    "version": "0.0",
+    "name": "default",
+    "description": "Wave SDK",
+    "packs":{
+        "Ishtar.Windows.Sdk": {
+            "kind": "Sdk",
+            "version": "0.0",
+            "alias": "win10-x64"
+        },
+        "Ishtar.OSX.Sdk": {
+            "kind": "Sdk",
+            "version": "0.0",
+            "alias": "osx-x64"
+        },
+        "Ishtar.Linux.Sdk": {
+            "kind": "Sdk",
+            "version": "0.0",
+            "alias": "linux-x64"
+        }
+    }
+}
