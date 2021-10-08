@@ -1,7 +1,7 @@
 {
     "version": "0.0",
     "name": "default",
-    "description": "Wave SDK",
+    "description": "Vein SDK",
     "packs":{
         "Ishtar.Windows.Sdk": {
             "kind": "Sdk",
